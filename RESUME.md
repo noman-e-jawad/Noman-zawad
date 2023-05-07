@@ -1,16 +1,37 @@
-### Hi there 👋
+<div style="background-color: red; padding: 20px;">
+  <div style="display: flex;">
+    <div style="flex-basis: 30%;">
+      <img src="https://example.com/myimage.jpg" alt="My Image" style="border-radius: 50%;">
+    </div>
+    <div style="flex-basis: 70%; display: flex; align-items: center;">
+      <h1>John Doe</h1>
+    </div>
+  </div>
+</div>
 
-<!--
-**Noman-zawad/Noman-zawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+- Bachelor of Science in Computer Science, XYZ University, 2021
+- High School Diploma, ABC School, 2017
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+### Software Engineer, Acme Inc. (2021 - Present)
+
+- Developed new features for the company's web application using React and Node.js
+- Worked closely with designers and product managers to ensure a high-quality user experience
+- Improved the performance of the application by optimizing database queries and caching
+
+### Intern, XYZ Corporation (Summer 2020)
+
+- Assisted senior engineers in developing and testing new software features
+- Participated in daily stand-up meetings and code reviews
+- Contributed to the development of a new feature that was released in the company's flagship product
+
+## Skills
+
+- JavaScript
+- React
+- Node.js
+- HTML/CSS
+- Git
